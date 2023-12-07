@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../exercitandoC"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"EX9.C": "cpp",
+			"EX15.C": "cpp",
+			"EX3.C": "cpp"
+		}
+	}
+}
